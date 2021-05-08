@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Java8思维导图</title>
+      <link href="2019/06/15/java8/"/>
+      <url>2019/06/15/java8/</url>
+      
+        <content type="html"><![CDATA[<p>[TOC]</p><h1 id="第一章-新思想和新使用"><a href="#第一章-新思想和新使用" class="headerlink" title="第一章 新思想和新使用"></a>第一章 新思想和新使用</h1><p><img src="/2019/06/15/java8/1_java8基础.png" alt="新思想和新使用"></p><h1 id="第二章-行为参数化"><a href="#第二章-行为参数化" class="headerlink" title="第二章 行为参数化"></a>第二章 行为参数化</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEBa7ef45dbcd85414651069b5875f682d4?method=download&amp;shareKey=0c667d8ca1a8a3df616bf6894c44884d" alt="行为参数化"></p><h1 id="第三章-Lambda表达式"><a href="#第三章-Lambda表达式" class="headerlink" title="第三章 Lambda表达式"></a>第三章 Lambda表达式</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEB6f46e2583fb64a967f9a67f83dec022a?method=download&amp;shareKey=9e5a341616c6eb5e30221a077374a034" alt="Lambda表达式"></p><h1 id="第四章-流"><a href="#第四章-流" class="headerlink" title="第四章 流"></a>第四章 流</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEB372f53349fcd58286156c8dec2c46c3b?method=download&amp;shareKey=147aefa23243497d5af8d3763b4ecfe1" alt="流"></p><h1 id="第五章-流的使用"><a href="#第五章-流的使用" class="headerlink" title="第五章 流的使用"></a>第五章 流的使用</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEB04e0dd9dee1ab1474c5d6d012f9fca65?method=download&amp;shareKey=09bedb432422ca4d808dca7904366ab9" alt="流的使用"></p><h1 id="第六章-收集器Collector"><a href="#第六章-收集器Collector" class="headerlink" title="第六章 收集器Collector"></a>第六章 收集器Collector</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEBad4e2561c92991af6a03cba3ae84b92b?method=download&amp;shareKey=9e4dac1b7978ed9a2510fec158596f53" alt="收集器Collector"></p><h1 id="第七章-并行处理数据与性能"><a href="#第七章-并行处理数据与性能" class="headerlink" title="第七章 并行处理数据与性能"></a>第七章 并行处理数据与性能</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEBe81d389b595a892d4b509e0e8a345046?method=download&amp;shareKey=2b08aa5936f0c7f3b6229f5924c20e15" alt="并行处理数据与性能"></p><h1 id="第八章-重构测试和调试"><a href="#第八章-重构测试和调试" class="headerlink" title="第八章 重构测试和调试"></a>第八章 重构测试和调试</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEB1439b165f12950e43e7154f77246fbf3?method=download&amp;shareKey=95f1c07bf62e999feddcde4915f805b5" alt="重构测试和调试"></p><h1 id="第九章-默认方法"><a href="#第九章-默认方法" class="headerlink" title="第九章 默认方法"></a>第九章 默认方法</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEB575c8f4836989911bda6d501273d2c5f?method=download&amp;shareKey=d29d749ed0caa3081d9aa34aab4c624d" alt="默认方法"></p><h1 id="第十章-Optinal取代null"><a href="#第十章-Optinal取代null" class="headerlink" title="第十章 Optinal取代null"></a>第十章 Optinal取代null</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEBdc9a27cd67af2b0ac0f5ac68dde717df?method=download&amp;shareKey=42a5118e45f57026ab0c71f92f82ed2c" alt="Optinal取代null"></p><h1 id="第十一章-CompletableFuture-组合式异步编程"><a href="#第十一章-CompletableFuture-组合式异步编程" class="headerlink" title="第十一章 CompletableFuture:组合式异步编程"></a>第十一章 CompletableFuture:组合式异步编程</h1><p><img src="https://note.youdao.com/yws/api/personal/file/WEBddcc4473051588314a3fad9078d7ad59?method=download&amp;shareKey=050caf036fcbb5a218c32e14352283ef" alt="CompletableFuture:组合式异步编程"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Raft一致性算法</title>
+      <link href="2019/01/23/Raft%E4%B8%80%E8%87%B4%E6%80%A7%E7%AE%97%E6%B3%95/"/>
+      <url>2019/01/23/Raft%E4%B8%80%E8%87%B4%E6%80%A7%E7%AE%97%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="一致性"><a href="#一致性" class="headerlink" title="一致性"></a>一致性</h2><h3 id="是什么一致性"><a href="#是什么一致性" class="headerlink" title="是什么一致性"></a>是什么一致性</h3><p>对于分布式系统的一致性问题，是指对于一组服务器，当给出一组操作时，使用某种协议使最后所有服务器的结果一致。</p><h3 id="如何保证一致性"><a href="#如何保证一致性" class="headerlink" title="如何保证一致性"></a>如何保证一致性</h3><ul><li><strong>CAP理论</strong>：对于分布式计算机系统，不能同时满足以下三点，一致性、可用性、分区容错性</li><li><strong>几种一致性模型</strong>：强一致性、弱一致性、最终一致性</li><li><strong>强一致性实现原理</strong>：我们讨论的raft算法是强一致性，某台服务器收到一组指令，同其他的服务器交流，保证所有服务器以同样的顺序收到指令，以此保证整组服务器最终产生的结果一致</li></ul><h2 id="Raft"><a href="#Raft" class="headerlink" title="Raft"></a>Raft</h2><h3 id="问题分解："><a href="#问题分解：" class="headerlink" title="问题分解："></a>问题分解：</h3><pre><code>raft算法实现一致性，主要有以下几个方面，领导选举、日志复制、安全、成员变化</code></pre><h3 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h3><ul><li><strong>复制状态机</strong>：当大多数的机器上日志相同时，即为提交至状态机</li><li><strong>服务器状态</strong>：领导者、候选人、追随者</li><li><strong>任期</strong>：raft算法将时间划分成任意不同长度的任期，使用连续的数字表示，任期以选举作为开始，每个任期最多一个领导人</li><li><strong>RPC</strong>：服务器之间通信方式，包括三种：选举rpc、心跳rpc、超时rpc，超时设置：领导人心跳超时时间、候选超时时间、单个服务器发生故障平均间隔</li></ul><h3 id="哪些操作"><a href="#哪些操作" class="headerlink" title="哪些操作"></a>哪些操作</h3><ul><li><p><strong>领导人选举</strong><br>  <strong>a.触发条件</strong>：领导者故障、追随者没有接收到心跳，选举超时时间不会清零，发生选举超时，追随者变成候选者<br>  <strong>b.过程</strong>： 追随者自增当前任期，变为候选人 |  给自己投票 | 发起选举rpc |获得超半数投票，成为领导者 | 或收到其他领导者的心跳，成为追随者 | 选举超时，下一轮选举<br>  <strong>c.选举原则</strong>：一次选举投一票 | 候选者等待投票，获得领导人的心跳，若其任期小于本轮任期，拒绝该rpc | 防止无限选举，使用的随机的选举超时时间</p></li><li><p><strong>日志复制</strong><br>  <strong>a.接受命令的过程</strong>：领导者接收到命令，发送心跳给追随者，收到大多数确认后，提交日志到状态机，并返回结果给客户端<br>  <strong>b.提交命令的过程</strong>：下一个阶段，领导者再次发送心跳，追随者接受日志已经提交，将日志在状态机回放</p></li><li><strong>安全性保证</strong><br>  <strong>a.领导者追加日志</strong>：不会覆盖之前的条目，从领导者到追随者<br>  <strong>b.选举限制</strong>：投票阻止没有全部日志条目的服务器赢得选举，及选举过程中，候选者的日志条目比大多数的服务器新，才可能赢得选举<br>  <strong>c.不提交任期之前的日志条目</strong><br>  <strong>d.候选者和追随者崩溃</strong>：无限重试</li><li><strong>集群成员变更</strong><br>  <strong>保证安全</strong>：集群先切换到一个过渡的配置，称为共同一致；一旦共同一致已经被提交了，那么系统就切换到新的配置上。共同一致是老配置和新配置的结合，只有拥有 C-old,new 日志条目的服务器才有可能被选举为领导人；</li></ul><p>资料：<br>    <strong>Raft动画展示</strong>：<a href="http://thesecretlivesofdata.com/raft/" target="_blank" rel="noopener">http://thesecretlivesofdata.com/raft/</a><br>    <strong>Raft Web site</strong>：<a href="https://raft.github.io" target="_blank" rel="noopener">https://raft.github.io</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> etcd </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
